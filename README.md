@@ -57,4 +57,4 @@ npx mcp-shopify
 
 ## License
 
-MIT
+Apache-2.0
